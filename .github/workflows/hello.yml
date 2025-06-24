@@ -12,3 +12,6 @@ jobs:
       - name: Echo the message
         run: |
           echo "Hola eud0r"
+      - name: fecha
+        run: date
+      - run: ls -al
